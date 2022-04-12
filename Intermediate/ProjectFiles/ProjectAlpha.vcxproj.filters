@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectAlpha.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3B58AA67-69DA-42A7-826B-48B755D6D8AD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectAlpha.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectAlphaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C2080DBA-76FD-4217-A3AE-D75B4B6A109A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectAlpha">
+      <UniqueIdentifier>{B04119C1-6FD9-4933-974E-6ABF5ADABB0F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectAlpha\ProjectAlpha.Build.cs">
+      <Filter>Source\ProjectAlpha</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectAlpha\ProjectAlpha.cpp">
+      <Filter>Source\ProjectAlpha</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectAlpha\ProjectAlpha.h">
+      <Filter>Source\ProjectAlpha</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectAlpha\ProjectAlphaCharacter.cpp">
+      <Filter>Source\ProjectAlpha</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectAlpha\ProjectAlphaCharacter.h">
+      <Filter>Source\ProjectAlpha</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectAlpha\ProjectAlphaGameMode.cpp">
+      <Filter>Source\ProjectAlpha</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectAlpha\ProjectAlphaGameMode.h">
+      <Filter>Source\ProjectAlpha</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

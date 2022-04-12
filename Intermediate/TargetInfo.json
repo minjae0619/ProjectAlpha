@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjectAlpha",
+			"Path": "F:\\Unreal Project\\ProjectAlpha\\ProjectAlpha\\Source\\ProjectAlpha.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjectAlphaEditor",
+			"Path": "F:\\Unreal Project\\ProjectAlpha\\ProjectAlpha\\Source\\ProjectAlphaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

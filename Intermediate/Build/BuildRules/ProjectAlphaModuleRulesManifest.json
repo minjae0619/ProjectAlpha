@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Unreal Project\\ProjectAlpha\\ProjectAlpha\\Source\\ProjectAlpha\\ProjectAlpha.Build.cs",
+		"F:\\Unreal Project\\ProjectAlpha\\ProjectAlpha\\Source\\ProjectAlpha.Target.cs",
+		"F:\\Unreal Project\\ProjectAlpha\\ProjectAlpha\\Source\\ProjectAlphaEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProjectAlpha.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Unreal Project\ProjectAlpha\ProjectAlpha\Intermediate\Build\Win64\ProjectAlphaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\Unreal Project\ProjectAlpha\ProjectAlpha\Intermediate\Build\Win64\UE4Editor\Development\ProjectAlpha\ProjectAlpha.cpp.obj"
+"F:\Unreal Project\ProjectAlpha\ProjectAlpha\Intermediate\Build\Win64\UE4Editor\Development\ProjectAlpha\ProjectAlphaCharacter.cpp.obj"
+"F:\Unreal Project\ProjectAlpha\ProjectAlpha\Intermediate\Build\Win64\UE4Editor\Development\ProjectAlpha\ProjectAlphaGameMode.cpp.obj"
+"F:\Unreal Project\ProjectAlpha\ProjectAlpha\Intermediate\Build\Win64\UE4Editor\Development\ProjectAlpha\ProjectAlpha.init.gen.cpp.obj"
+"F:\Unreal Project\ProjectAlpha\ProjectAlpha\Intermediate\Build\Win64\UE4Editor\Development\ProjectAlpha\ProjectAlphaCharacter.gen.cpp.obj"
+"F:\Unreal Project\ProjectAlpha\ProjectAlpha\Intermediate\Build\Win64\UE4Editor\Development\ProjectAlpha\ProjectAlphaGameMode.gen.cpp.obj"
+"F:\Unreal Project\ProjectAlpha\ProjectAlpha\Intermediate\Build\Win64\UE4Editor\Development\ProjectAlpha\Default.rc2.res"
+/OUT:"F:\Unreal Project\ProjectAlpha\ProjectAlpha\Intermediate\Build\Win64\UE4Editor\Development\ProjectAlpha\UE4Editor-ProjectAlpha.lib"
